@@ -100,7 +100,7 @@ Building Enterprise Transport Management Systems (TMS), Fleet Management Platfor
 
 - 🌐 Website: https://chetanbhasney.in
 - 💼 LinkedIn: https://linkedin.com/in/chetan-bhasney
-- 📧 Email: *(Add your professional email here)*
+- 📧 Email: chetanbhasney318@gmail.com
 
 ---
 
