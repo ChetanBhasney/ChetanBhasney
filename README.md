@@ -158,13 +158,13 @@
 
 ## 🔥 Contribution Streak
 
-<p align="center">
+<!-- <p align="center">
   <img
     width="70%"
     src="https://streak-stats.demolab.com?user=ChetanBhasney&theme=github-dark-blue&hide_border=true"
     alt="GitHub Contribution Streak"
   />
-</p>
+</p> -->
 
 ---
 
