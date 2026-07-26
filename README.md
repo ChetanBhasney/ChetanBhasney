@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋 I'm Chetan Bhasney
 
-<!--
-**ChetanBhasney/ChetanBhasney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer @ Algor Supply Chain Solutions Pvt. Ltd.
 
-Here are some ideas to get you started:
+Building enterprise-grade Transport Management Systems (TMS),
+Fleet Management Platforms &
+AI-powered Logistics Solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚚 Current Work
+
+- LiveTRACK TMS
+- Fleet Management
+- Route Planning
+- Cold Chain Logistics
+- AI Automation
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+
+- React
+- Flutter
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+
+- MySQL
+- MongoDB
+- Firebase
+
+---
+
+## 📫 Connect
+
+- LinkedIn
+- Website
+- Email
